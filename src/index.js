@@ -1,6 +1,4 @@
 
-@@ -1 +1,19 @@
-// Code Goes Here
 import React from 'react';
 import PropTypes from 'prop-types';
 
